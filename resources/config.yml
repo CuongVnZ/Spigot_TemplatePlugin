@@ -1,0 +1,6 @@
+MySQL:
+  HOST: localhost
+  PORT: 3306
+  USERNAME: root
+  PASSWORD: ''
+  DATABASE: NeoRPG
