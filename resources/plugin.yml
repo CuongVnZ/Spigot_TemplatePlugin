@@ -1,6 +1,6 @@
-name: ExamplePlugin
-main: net.cuongvnz.example.ExamplePlugin
+name: ${project.name}
+main: ${main.class}
 version: ${project.version}
-description: ExamplePlugin
-author: CuongVnZ
+load: STARTUP
+author: ${author}
 commands:

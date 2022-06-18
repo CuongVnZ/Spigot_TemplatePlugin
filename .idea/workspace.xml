@@ -1,23 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="75b94a62-e5b7-4419-bdbb-b1722c574508" name="Default Changelist" comment="" />
+    <list default="true" id="75b94a62-e5b7-4419-bdbb-b1722c574508" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/ChunkWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/CustomArmorStand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/DefaultFontInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/REntities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RParticles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RTicks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/RUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomBat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomBlaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomCaveSpider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomChicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomCow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomElderGuardian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomEnderDragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomGhast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomGiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomGuardian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorseDonkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorseLlama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorseMule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorseSkeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomHorseZombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomIronGolem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomMagmaCube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomMushroomCow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomNPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomOcelot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomParrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomPig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomPigZombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomPolarBear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomRabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSilverfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSkeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSkeletonStray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSkeletonWither.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSlime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSnowman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomSpider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomVex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomVillager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomVindicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomWitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomWither.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomWolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomZombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomZombieHusk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/CustomZombieVillager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/Leashable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/PathfinderGoalMobWander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/entities/PathfinderGoalNPCWander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/ArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/FancyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/JsonRepresentedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/JsonString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/MessagePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/fanciful/TextualComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/ClassTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/ClassTypeAdapterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/EnumTypeAdapterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/GsonBuilderModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/LocationAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/utils/gson/RGson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplatePlugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TemplatePlugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/cuongvnz/example/ExamplePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/ExamplePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/cuongvnz/example/examples/ExampleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/cuongvnz/example/examples/ExampleManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1aXY05lbMs8XxvhtFbLUOSoHMDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/edgcu/IdeaProjects/Spigot_TemplatePlugin/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\edgcu\IdeaProjects\Spigot_TemplatePlugin\src" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -31,44 +143,22 @@
       <workItem from="1586883185903" duration="8317000" />
       <workItem from="1586967408976" duration="1783000" />
       <workItem from="1589713338500" duration="117000" />
+      <workItem from="1655577624852" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="42" key="#Inspections" timestamp="1586884093522">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1586884093522" />
-    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586883605014">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1586883605014" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1586883776209">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586883776209" />
-    <state width="1306" height="131" key="GridCell.Tab.0.bottom" timestamp="1586917766070">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1306" height="131" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586917766070" />
-    <state width="1306" height="131" key="GridCell.Tab.0.center" timestamp="1586917766070">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1306" height="131" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586917766070" />
-    <state width="1306" height="131" key="GridCell.Tab.0.left" timestamp="1586917766070">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1306" height="131" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586917766070" />
-    <state width="1306" height="131" key="GridCell.Tab.0.right" timestamp="1586917766070">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1306" height="131" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586917766070" />
-    <state x="379" y="116" width="607" height="536" key="find.popup" timestamp="1586916284566">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="379" y="116" width="607" height="536" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586916284566" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

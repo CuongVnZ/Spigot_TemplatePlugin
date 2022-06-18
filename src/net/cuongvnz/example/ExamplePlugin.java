@@ -37,17 +37,19 @@ public class ExamplePlugin extends JavaPlugin{
         ExamplePlugin.database = getConfig().getString("MySQL.DATABASE");
 
         // Instantiate Managers here
-        new SQLManager(this);
+
+        /* remove comment to enable SQL*/
+        //new SQLManager(this);
         new CommandManager(this);
         new ExampleManager(this);
         
-        System.out.println("Enabled ExamplePlugin.");
-        System.out.println("Connected MySQL server...");
-        System.out.println("Host: " + ExamplePlugin.host);
-        System.out.println("Port: " + ExamplePlugin.port);
-        System.out.println("Database: " + ExamplePlugin.database);
-        System.out.println("Username: " + ExamplePlugin.username);
-        System.out.println("Password: " + ExamplePlugin.password);
+//        System.out.println("Enabled ExamplePlugin.");
+//        System.out.println("Connected MySQL server...");
+//        System.out.println("Host: " + ExamplePlugin.host);
+//        System.out.println("Port: " + ExamplePlugin.port);
+//        System.out.println("Database: " + ExamplePlugin.database);
+//        System.out.println("Username: " + ExamplePlugin.username);
+//        System.out.println("Password: " + ExamplePlugin.password);
         
     }
     
