@@ -14,12 +14,6 @@ public class ExamplePlugin extends JavaPlugin{
 
     public static ExamplePlugin plugin;
 	
-    public static String host;
-    public static String port;
-    public static String username;
-    public static String password;
-    public static String database;
-	
     @Override
     public void onEnable() {
         plugin = this;
@@ -30,16 +24,9 @@ public class ExamplePlugin extends JavaPlugin{
         
         saveDefaultConfig();
 
-        ExamplePlugin.host = getConfig().getString("MySQL.HOST");
-        ExamplePlugin.port = getConfig().getString("MySQL.PORT");
-        ExamplePlugin.username = getConfig().getString("MySQL.USERNAME");
-        ExamplePlugin.password = getConfig().getString("MySQL.PASSWORD");
-        ExamplePlugin.database = getConfig().getString("MySQL.DATABASE");
-
         // Instantiate Managers here
 
-        /* remove comment to enable SQL*/
-        //new SQLManager(this);
+        if(MYSQL_ENABLE) new SQLManager(this);
         new CommandManager(this);
         new ExampleManager(this);
         

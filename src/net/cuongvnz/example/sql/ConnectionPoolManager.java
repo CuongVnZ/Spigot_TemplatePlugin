@@ -50,11 +50,18 @@ public class ConnectionPoolManager {
      */
     
     private void initialize() {
-    	hostname = ExamplePlugin.host;
-        port = ExamplePlugin.port;
-        database = ExamplePlugin.database;
-        username = ExamplePlugin.username;
-        password = ExamplePlugin.password;
+//    	hostname = ExamplePlugin.host;
+//        port = ExamplePlugin.port;
+//        database = ExamplePlugin.database;
+//        username = ExamplePlugin.username;
+//        password = ExamplePlugin.password;
+
+        hostname = ExamplePlugin.plugin.getConfig().getString("MySQL.HOST");
+        port = ExamplePlugin.plugin.getConfig().getString("MySQL.PORT");
+        username = ExamplePlugin.plugin.getConfig().getString("MySQL.USERNAME");
+        password = ExamplePlugin.plugin.getConfig().getString("MySQL.PASSWORD");
+        database = ExamplePlugin.plugin.getConfig().getString("MySQL.DATABASE");
+
         minimumIdle = 5;
         poolSize = 25;
         connectionTimeout = 15000; //millis
