@@ -1,6 +1,11 @@
 *.class
 target/
 
+#Intellij
+.idea/
+.settings/
+*.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 

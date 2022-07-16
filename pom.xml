@@ -57,7 +57,7 @@
 		<dependency>
 			<groupId>org.bukkit</groupId>
 			<artifactId>craftbukkit</artifactId>
-			<version>1.12.2-R0.1-SNAPSHOT</version>
+			<version>1.14.2-R0.1-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>provided</scope>
 		</dependency>
@@ -71,8 +71,8 @@
 
 	<repositories>
 		<repository>
-			<id>elmakers-repo</id>
-			<url>https://maven.elmakers.com/repository/</url>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
 		</repository>
 	</repositories>
 </project>
